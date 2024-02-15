@@ -1,0 +1,45 @@
+body {
+    background-color: #Eaf6f6;
+}
+
+h1,
+h2,
+h3 {
+    color: #32a89b
+}
+
+#container{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    background-color: black;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    margin-left: 200px;
+}
+li{
+    text-decoration-style: solid;
+}
+hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width:5%;
+}
+.heading{
+    height: 100px;
+    width: 500px;
+    margin-left: 500px;
+    border: 20px;
+}
+#first{
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+    border: 2px solid black;
+    box-shadow: 3px 4px 5px blue;
+}
